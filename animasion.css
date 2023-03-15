@@ -1,0 +1,52 @@
+.book{
+ width: 370px;
+ height: 480px;
+ border: 1px solid rgb(78, 76, 76);
+ background-color: white;
+ margin-left: 60px;
+ margin-top: 30px;
+
+}
+.book:hover{
+    box-shadow: 8px 8px 5px rgb(95, 71, 71);
+}
+.book2:hover{
+ 
+ 
+ 
+ 
+}
+img{
+    width: 370px;
+    height: 250px;
+ 
+}
+ img:hover{
+transform: scale(2 2);
+
+ } 
+
+h1{
+    margin-left:15px ;
+}
+p{
+    margin-left:15px ;
+    font-size: 20px;
+    color: black;
+}
+ button{
+    margin-left:15px ;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    background-color: rgb(90, 84, 84);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    
+ 
+ }
+
+
+ 
